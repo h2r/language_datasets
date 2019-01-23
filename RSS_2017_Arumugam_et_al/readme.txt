@@ -1,0 +1,1 @@
+The dataset has english commands at different levels of abstraction paired with its corresponding reward function label of an AMDP hierarchy .  
