@@ -1,0 +1,1 @@
+The dataset has a language command paired with 3 start and termination states. Each state is structured as a BURLAP OOMDP state. For more details about parsing the state, contact the primary authors and look at the github repository of the project at: https://github.com/h2r/lambda-amdp 
